@@ -14,6 +14,7 @@ The reason I think that having a fixed mindset debilitating is because growth an
 A fixed mindset is just one end of the spectrum, the opposite of this is a growth mindset which is the mind set more of us need to have. changing our thinking from "I am bad at coding" to "I can improve my coding skills with effort and practice".
 
 
+
 What is an IDE?
 
 IDE is an abbreviation for an Intergrated Development Environment and is an application that makes coding easier and more efficient. IDE as stated in the name intergrates many tools needed within coding, such as editing code, built in complier engines and debugging tools. 
@@ -28,9 +29,15 @@ Debugging tools make coding very efficient as a developer is able to run thier c
 
 IDE is a great tool when it comes to creating code and is seen throughout many applications in this mordern world, we can see an example of it within github with to syntax highlighting of my code. But over all IDEs are very beneficial for developer when creating code and allows for better time management as they're able create, run and debug their code within one environment creating smooth workflows that are less suscepitable to disorganisation. The tools talked about are only some of the tools that an IDE provides. 
 
+
+
 what is OOP?
 
-Object-oriendted programming is a programming paradigm (programming style) centered around objects 
+Object-oriendted programming is a programming paradigm (programming style) centered around objects in which data sets are represented via real world objects and is very reliable when doing collbrative projects due to organisaiton of object orientated applications and code resuability makes this paradigm very efficient. Naming objects with real world names allows a developer to create a system that interactes with real life items, such as an end user. an example of this would be a ticket system that I have created in the past, where end users would use it to gather inforamtion about staff problems and then be able to solve them. 
+
+OOP rely on many to components to work but one of the main components is creating a class. Classes are the blue print to creating an object as they contain user defined descriptions that define the object such as attributes or variables and methods that allows the object to funciton. 
+
+Syntax refers to a set of principles that defines how a language is structed. syntax utalises specific symbols, words and punctuation to carry out specific fuctions. without the use of syntax a complier wont be able to understand or interperet the meaning of the language if these principles aren't kept to. the code I have sourced makes use of the coding language python and adheres to using specific words such as "if" and "elif" statements as well as using specific symbols to such as "=" and correct punctuation that create functions that a computer is able to run and carry out due to legeibily as these prinicples are adhearded to. 
 
 research links https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
 https://builtin.com/software-engineering-perspectives/pass-vs-continue-python

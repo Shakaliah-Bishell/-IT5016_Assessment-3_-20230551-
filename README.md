@@ -76,45 +76,46 @@ Yes I have practiced meditation before. I found it hard to meditate as my mind w
 practcing meditation poses many benefits such as reducing anxiety, promoting emotional health, lengthing attention span and can generate kindness 
 
 
-research links https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
-https://builtin.com/software-engineering-perspectives/pass-vs-continue-python
+References
 
-https://www.studytonight.com/python/python-iterable-and-iterator#:~:text=In%20python%20or%20in%20any%20other%20programming%20language%2C%20Iteration%20means%20to%20access%20each%20item%20of%20something%20one%20after%20another%20generally%20using%20a%20loop.
+BasuMallick, C. (2022a, October 4). What Is OOP (Object Oriented Programming)? Spiceworks; https://www.facebook.com/SpiceworksNews/. https://www.spiceworks.com/tech/devops/articles/object-oriented-programming/
 
-https://www.programiz.com/python-programming/if-elif-else
+BasuMallick, C. (2022b, October 12). Why is Integrated Development Environment (IDE) Important? Spiceworks; https://www.facebook.com/SpiceworksNews/. https://www.spiceworks.com/tech/devops/articles/what-is-ide/
 
-https://www.w3schools.com/python/python_for_loops.asp
+Biswal, A. (2020, June 18). A Beginner’s Guide To Python Variables. Simplilearn.Com; Simplilearn. https://www.simplilearn.com/tutorials/python-tutorial/python-variables
 
-https://www.codecademy.com/article/what-is-an-ide
+Codecademy. (n.d.). What Is an IDE? | Codecademy. Codecademy; Codecademy. Retrieved April 14, 2023, from https://www.codecademy.com/article/what-is-an-ide
 
-https://www.spiceworks.com/tech/devops/articles/what-is-ide/
+Contributor, T. (2021, October 13). What is variable? | Definition from TechTarget. WhatIs.Com; TechTarget. https://www.techtarget.com/whatis/definition/variable
 
-https://www.techtarget.com/whatis/definition/compiler
+Contributors to Wikimedia projects. (2009, February 8). Maestro I - Wikipedia. Wikipedia, the Free Encyclopedia; Wikimedia Foundation, Inc. https://en.wikipedia.org/wiki/Maestro_I
 
-https://www.mindsethealth.com/matter/growth-vs-fixed-mindset
+Coursera. (2023, January 4). What Is Python Used For? A Beginner’s Guide | Coursera. Coursera. https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python
 
-https://en.wikipedia.org/wiki/Maestro_I
+Doherty, E. (2020, April 15). What is object-oriented programming? OOP explained in depth. Educative: Interactive Courses for Software Developers. https://www.educative.io/blog/object-oriented-programming
 
-https://www.educative.io/blog/object-oriented-programming
+NIH News in Health. (2021, June 1). Mindfulness for Your Health | NIH News in Health. NIH News in Health. https://newsinhealth.nih.gov/2021/06/mindfulness-your-health
 
-https://www.spiceworks.com/tech/devops/articles/object-oriented-programming/
+Nishad, A. (n.d.). Classes and Objects in OOPS. EnjoyAlgorithms. Retrieved April 14, 2023, from https://www.enjoyalgorithms.com/blog/classe-and-object-in-oops
 
-https://www.enjoyalgorithms.com/blog/classe-and-object-in-oops
+Programiz. (n.d.). Python if, if...else Statement (With Examples). Programiz: Learn to Code for Free. Retrieved April 14, 2023, from https://www.programiz.com/python-programming/if-elif-else
 
-https://www.sumologic.com/glossary/encapsulation/
+Rouse, M. (2022, June 4). What is a Variable in Programming? - Definition from Techopedia. Techopedia; https://www.facebook.com/techopedia/. https://www.techopedia.com/definition/25647/variable-programming
 
-https://www.w3schools.com/python/python_intro.asp
+Shah, J. (2019, November 14). The Classic Tic-Tac-Toe Game in Python 3 | by James Shah | Byte Tales | Medium. Medium; Byte Tales. https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
 
-https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python
+Sheldon, R. (2022, April 29). What is a compiler? WhatIs.Com; TechTarget. https://www.techtarget.com/whatis/definition/compiler
 
-https://www.w3schools.com/python/python_variables.asp
+Smith, J. (2020, September 25). Growth Mindset vs Fixed Mindset: How what you think affects what you achieve. Mindset Health | Hypnotherapy Apps for 
 
-https://www.simplilearn.com/tutorials/python-tutorial/python-variables
+Health Conditions. https://www.mindsethealth.com/matter/growth-vs-fixed-mindset
 
-https://www.techtarget.com/whatis/definition/variable
+Sumo Logic. (n.d.). Encapsulation - definition & overview | Sumo Logic. Sumo Logic. Retrieved April 14, 2023, from https://www.sumologic.com/glossary/encapsulation/
 
-https://www.techopedia.com/definition/25647/variable-programming
+Thorpe, M. (2020, October 26). Benefits of Meditation: 12 Science-Based Benefits of Meditation. Healthline; Healthline Media. https://www.healthline.com/nutrition/12-benefits-of-meditation#7.-Can-generate-kindness
 
-https://newsinhealth.nih.gov/2021/06/mindfulness-your-health 
+W3Schools. (n.d.). Python Variables. W3Schools Online Web Tutorials. Retrieved April 14, 2023, from https://www.w3schools.com/python/python_variables.asp
+
+W3Schools . (n.d.). Introduction to Python. W3Schools Online Web Tutorials. Retrieved April 14, 2023, from https://www.w3schools.com/python/python_intro.asp
 
 

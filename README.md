@@ -1,5 +1,7 @@
 # -IT5016_Assessment-3_-20230551-
 
+Shakaliah Bishell 
+
 For this research task I have decided to source a game of Tic Tac Toe. This code takes the iconic game that we all know and love and enables users to play the game with the touch of a key board, adding a new school twist! the code I have sourced codes for eveything from the famillar grid like board down to all the combinations of moves that it takes to win. 
 
 

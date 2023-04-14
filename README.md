@@ -51,6 +51,11 @@ the game code I have sourced was created using the python language.
 
 
 
+What is a variable?
+
+a variable stores data within it, and is able to manipulate said data. Variables can represent many data types including names, intergers and strings. Variables. In python there no specific commands for creating a variable, but once a developer asigns a value to the name a variable is created. Variables have defining attributes including an identifyer,  data location, type and value and these can be assigned at any time. when naming variables multiple characters usually represent them but in some cases a single character can be used such as an "i" which represents a loop, this can can be seen in the tic tac toe code in which "i" represents the ammount of turns taken, and is represented by a number within the range of 10. this is the variables scope which determines the variables function. Variables are a reseved memory location. space for this memory is allocated to the variable when it is in use, and removed when it is no longer needed. 
+
+
 research links https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
 https://builtin.com/software-engineering-perspectives/pass-vs-continue-python
 
@@ -81,5 +86,13 @@ https://www.sumologic.com/glossary/encapsulation/
 https://www.w3schools.com/python/python_intro.asp
 
 https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python
+
+https://www.w3schools.com/python/python_variables.asp
+
+https://www.simplilearn.com/tutorials/python-tutorial/python-variables
+
+https://www.techtarget.com/whatis/definition/variable
+
+https://www.techopedia.com/definition/25647/variable-programming
 
 

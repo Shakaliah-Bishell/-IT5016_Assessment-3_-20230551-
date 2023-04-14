@@ -56,6 +56,26 @@ What is a variable?
 a variable stores data within it, and is able to manipulate said data. Variables can represent many data types including names, intergers and strings. Variables. In python there no specific commands for creating a variable, but once a developer asigns a value to the name a variable is created. Variables have defining attributes including an identifyer,  data location, type and value and these can be assigned at any time. when naming variables multiple characters usually represent them but in some cases a single character can be used such as an "i" which represents a loop, this can can be seen in the tic tac toe code in which "i" represents the ammount of turns taken, and is represented by a number within the range of 10. this is the variables scope which determines the variables function. Variables are a reseved memory location. space for this memory is allocated to the variable when it is in use, and removed when it is no longer needed. 
 
 
+
+have you done mindfulness or attention training before?
+
+yes I have practiced mindfulness training before in the form of breathing exercices. this involed breathing in for around 4 seconds holding it for 4 then breathing out for 6 seconds, after a while of mindfulness I was able to increase the number of seconds. Mindfulness was very beneficial as it is able to bring me back to the present and center myself. I find mindfulness a great tool to utalise when I am overwhelmed and need to calm down my over active brain, by focusing on counting and the breath work. mindfulness is the process in which we become aweare of our environmet, thoughts and feelings and to observe this without judgement. 
+
+mindfulness poses many great benefits such as helping with depression as it allows people people to stay present and grounded. there has also been studies where mindfulness has proved to lower blood pressure by inproving how we deal with stress and inproves sleep.  
+
+If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+
+I would tell myself not to doubt my own abilities when it comes to learning. starting this course I felt like i needed to have more backgroud knowledge about coding and computers. I felt very scared and insecure when it came to learning the content for this course, beacuse I felt that i was step behind everyone else and wasnt going to grasp the content as fast as everyone. but i have come to realise that learning is my own journey, and that i dont need to be in pace with everyone else. as long as i am able to understand the content and submit my assignment on time, keeping to my own pace to actually learn is all that matters.   
+
+
+
+Have you meditated before?
+
+Yes I have practiced meditation before. I found it hard to meditate as my mind would often wonder off and i would find my self overthinking again, but i would bring myself back by practicing mindful breathing. i hope to find the time to practice meditation and become good enough to sit for more that a moment just observing my thoughts. 
+
+practcing meditation poses many benefits such as reducing anxiety, promoting emotional health, lengthing attention span and can generate kindness 
+
+
 research links https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
 https://builtin.com/software-engineering-perspectives/pass-vs-continue-python
 
@@ -94,5 +114,7 @@ https://www.simplilearn.com/tutorials/python-tutorial/python-variables
 https://www.techtarget.com/whatis/definition/variable
 
 https://www.techopedia.com/definition/25647/variable-programming
+
+https://newsinhealth.nih.gov/2021/06/mindfulness-your-health 
 
 

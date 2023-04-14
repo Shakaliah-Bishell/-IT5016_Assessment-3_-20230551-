@@ -33,11 +33,23 @@ IDE is a great tool when it comes to creating code and is seen throughout many a
 
 what is OOP?
 
-Object-oriendted programming is a programming paradigm (programming style) centered around objects in which data sets are represented via real world objects and is very reliable when doing collbrative projects due to organisaiton of object orientated applications and code resuability makes this paradigm very efficient. Naming objects with real world names allows a developer to create a system that interactes with real life items, such as an end user. an example of this would be a ticket system that I have created in the past, where end users would use it to gather inforamtion about staff problems and then be able to solve them. 
+Object-oriendted programming is a programming paradigm (programming style) centered around objects in which data sets are represented via real world objects. This programming style very reliable when doing collbrative projects due to organisaiton of object orientated applications and code resuability makes this paradigm very efficient. Naming objects with real world names allows a developer to create a system that interactes with real life items, such as an end user. an example of this would be a ticket system that I have created in the past, where end users would use it to gather inforamtion about staff problems and then be able to solve them. 
 
-OOP rely on many to components to work but one of the main components is creating a class. Classes are the blue print to creating an object as they contain user defined descriptions that define the object such as attributes or variables and methods that allows the object to funciton. 
+OOP relies on many to components to work but one of the main components is creating a class. Classes are the blue print to creating an object as they contain user defined descriptions that define the object such as attributes or variables and methods that allows the object to funciton. 
 
-Syntax refers to a set of principles that defines how a language is structed. syntax utalises specific symbols, words and punctuation to carry out specific fuctions. without the use of syntax a complier wont be able to understand or interperet the meaning of the language if these principles aren't kept to. the code I have sourced makes use of the coding language python and adheres to using specific words such as "if" and "elif" statements as well as using specific symbols to such as "=" and correct punctuation that create functions that a computer is able to run and carry out due to legeibily as these prinicples are adhearded to. 
+another key comoponet is Syntax which refers to a set of principles that defines how a language is structed. syntax utalises specific symbols, words and punctuation to carry out specific fuctions. without the use of syntax a complier wont be able to understand or interperet the meaning of the language if these principles aren't kept to. the code I have sourced makes use of the coding language python and adheres to using specific words such as "if" and "elif" statements as well as using specific symbols to such as "=" and correct punctuation that create functions that a computer is able to run and carry out due to legeibily as makes use of these prinicples. 
+
+another component revelent to OOP is encapsulation. this process involves grouping data and functions into a single unit. This is benefical as it restricts users from accessing certain conponents of an object such as state values within an object. but these are only some of the components that make up OOP.
+
+
+
+What is python?
+
+python is programming language, and has become very popular due to its versatility. python was released in 1991 by Guido van Rossum. Python is an general purpose language and is used to create many projects from building websites and software, task automation, data analysis and can even be used for software prototyping and testing. Python was used for readabibility which is why it has many similarities to the english language. Python unlike other languages that use parentheses or semicolons to end command python utilize new lines to end it commands. Python also relies on the use of white space and indentations to define classes, loops and functions. Many developers use phython not only for its but also for its efficieny as python offers many great features such as its interperter system allowing code to be run and tested as soon as it is written, it also allows developers to write their code with fewer lines.   
+
+the game code I have sourced was created using the python language. 
+
+
 
 research links https://medium.com/byte-tales/the-classic-tic-tac-toe-game-in-python-3-1427c68b8874
 https://builtin.com/software-engineering-perspectives/pass-vs-continue-python
@@ -57,5 +69,17 @@ https://www.techtarget.com/whatis/definition/compiler
 https://www.mindsethealth.com/matter/growth-vs-fixed-mindset
 
 https://en.wikipedia.org/wiki/Maestro_I
+
+https://www.educative.io/blog/object-oriented-programming
+
+https://www.spiceworks.com/tech/devops/articles/object-oriented-programming/
+
+https://www.enjoyalgorithms.com/blog/classe-and-object-in-oops
+
+https://www.sumologic.com/glossary/encapsulation/
+
+https://www.w3schools.com/python/python_intro.asp
+
+https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python
 
 
